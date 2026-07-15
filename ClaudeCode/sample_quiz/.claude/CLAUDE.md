@@ -21,3 +21,7 @@
 
 - 素のHTML/CSS/JavaScriptの構成を維持し、新たにフレームワークやビルドツールを導入しない。
 - 問題を追加・修正する場合は `script.js` の `questions` 配列（`question` / `choices` / `answer`）の形式に合わせる。
+
+## GitHubリポジトリ
+
+https://github.com/akikosolazul-sys/samurai-terakoya/tree/main/ClaudeCode/sample_quiz

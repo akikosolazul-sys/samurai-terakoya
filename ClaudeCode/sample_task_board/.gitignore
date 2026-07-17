@@ -1,6 +1,0 @@
-node_modules/
-.env
-
-.claude/settings.local.json
-Thumbs.db
-.DS_Store
